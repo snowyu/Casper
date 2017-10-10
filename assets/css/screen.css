@@ -1435,7 +1435,8 @@ Usage (In Ghost editor):
     padding-left: 2%;
     font-size: 1.3rem;
     line-height: 1;
-}
+    white-space: nowrap;
+  }
 
 .floating-header-share a {
     display: flex;
